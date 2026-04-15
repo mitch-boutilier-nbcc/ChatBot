@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Downloads\\Chat_Bot_Example\\Socket_Listener\\Socket_Listener.csproj",
+      "projectUniqueName": "S:\\Repos\\SSH_Example\\Socket_Listener\\Socket_Listener.csproj",
       "projectName": "Socket_Listener",
-      "projectPath": "E:\\Downloads\\Chat_Bot_Example\\Socket_Listener\\Socket_Listener.csproj",
+      "projectPath": "S:\\Repos\\SSH_Example\\Socket_Listener\\Socket_Listener.csproj",
       "packagesPath": "C:\\Users\\Mitch\\.nuget\\packages\\",
-      "outputPath": "E:\\Downloads\\Chat_Bot_Example\\Socket_Listener\\obj\\",
+      "outputPath": "S:\\Repos\\SSH_Example\\Socket_Listener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

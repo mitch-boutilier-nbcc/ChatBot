@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Downloads\\Chat_Bot_Example\\Chat_Bot_Ex\\Chat_Bot_Ex.csproj",
+      "projectUniqueName": "S:\\Repos\\SSH_Example\\Chat_Bot_Ex\\Chat_Bot_Ex.csproj",
       "projectName": "Chat_Bot_Ex",
-      "projectPath": "E:\\Downloads\\Chat_Bot_Example\\Chat_Bot_Ex\\Chat_Bot_Ex.csproj",
+      "projectPath": "S:\\Repos\\SSH_Example\\Chat_Bot_Ex\\Chat_Bot_Ex.csproj",
       "packagesPath": "C:\\Users\\Mitch\\.nuget\\packages\\",
-      "outputPath": "E:\\Downloads\\Chat_Bot_Example\\Chat_Bot_Ex\\obj\\",
+      "outputPath": "S:\\Repos\\SSH_Example\\Chat_Bot_Ex\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
