@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\Chat_Bot_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C679C5-BD69-F76E-2CCB-D140DE8F7B8F}|Chat_Bot_Ex\\Chat_Bot_Ex.csproj|e:\\documents\\chat_bot_example\\chat_bot_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C679C5-BD69-F76E-2CCB-D140DE8F7B8F}|Chat_Bot_Ex\\Chat_Bot_Ex.csproj|solutionrelative:chat_bot_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4903DEF-960C-8556-E365-F5B07C272DAA}|Socket_Listener\\Socket_Listener.csproj|e:\\documents\\chat_bot_example\\socket_listener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4903DEF-960C-8556-E365-F5B07C272DAA}|Socket_Listener\\Socket_Listener.csproj|solutionrelative:socket_listener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\Chat_Bot_Example\\Socket_Listener\\Program.cs",
+              "RelativeDocumentMoniker": "Socket_Listener\\Program.cs",
+              "ToolTip": "E:\\Documents\\Chat_Bot_Example\\Socket_Listener\\Program.cs",
+              "RelativeToolTip": "Socket_Listener\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T20:27:05.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\Chat_Bot_Example\\Chat_Bot_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "Chat_Bot_Ex\\Program.cs",
+              "ToolTip": "E:\\Documents\\Chat_Bot_Example\\Chat_Bot_Ex\\Program.cs",
+              "RelativeToolTip": "Chat_Bot_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T20:14:26.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

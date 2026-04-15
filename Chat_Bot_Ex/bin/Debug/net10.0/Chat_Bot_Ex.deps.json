@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Chat_Bot_Ex/1.0.0": {
+        "runtime": {
+          "Chat_Bot_Ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chat_Bot_Ex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

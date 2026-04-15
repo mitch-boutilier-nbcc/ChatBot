@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Chat_Bot_Ex/Chat_Bot_Ex.csproj" />
+  <Project Path="Socket_Listener/Socket_Listener.csproj" />
+</Solution>

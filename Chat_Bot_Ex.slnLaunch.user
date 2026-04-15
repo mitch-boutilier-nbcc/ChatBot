@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Socket_Listener\\Socket_Listener.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Chat_Bot_Ex\\Chat_Bot_Ex.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
