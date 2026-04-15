@@ -86,14 +86,14 @@ public class SocketListener
 
                     //IndexOf() of is really good for finding words, but also where in the message they occur compared to other words
                     //This is useful if you care about the order things show up in
-                    if (data.ToLower().IndexOf("dogs") > -1)
+                    if (data.ToLower().IndexOf("dog") > -1)
                     {
                         dogIndex = data.ToLower().IndexOf("dog");
                         response = "I like dogs, floppy ears are the way to go!";
                     }
 
                     //Contains is a quicker/cleaner word search but does not provide positioning information
-                    if (data.ToLower().Contains("pizzas"))
+                    if (data.ToLower().Contains("pizza"))
                     {
                         //If you want to process multiple messages at once, you can check if you've already added something before adding a newline
                         if (response != null)
@@ -104,7 +104,7 @@ public class SocketListener
                         response += "Pineapple on pizza is a warcrime";
                     }
 
-                    if (data.ToLower().IndexOf("books") > -1)
+                    if (data.ToLower().IndexOf("book") > -1)
                     {
                         bookIndex = data.ToLower().IndexOf("book");
 
